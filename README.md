@@ -8,6 +8,9 @@
 
 Sistema web em **Java Web** que integra dados de patentes do portal WIPO, permitindo buscar informações de um processo pelo número e salvá-las em banco de dados.
 
+![Tela 1](Tela%201.png)
+![Tela 2](Tela%202.png)
+
 ---
 
 ## Tecnologias
